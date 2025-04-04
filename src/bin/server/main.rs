@@ -34,3 +34,4 @@ fn log_error(result: anyhow::Result<()>) {
         eprintln!("Error: {}", error);
     }
 }
+
